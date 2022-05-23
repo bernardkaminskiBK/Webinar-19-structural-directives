@@ -4,5 +4,5 @@ import {Directive} from "@angular/core";
   selector: '[roleAdmin]'
 })
 export class RoleAdminDirective {
-
+// TODO: pokracovanie tu Webinar 19 55:00
 }
